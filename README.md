@@ -1,4 +1,4 @@
- # PDF Question Answering 📄🤖
+ # PDF Question Answering 📄
 
 This project demonstrates how to extract text from a PDF file and use a **Question Answering (QA) model** from Hugging Face Transformers to query the document.  
 
